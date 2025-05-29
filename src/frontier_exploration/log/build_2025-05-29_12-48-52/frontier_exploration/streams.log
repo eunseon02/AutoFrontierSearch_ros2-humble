@@ -1,0 +1,24 @@
+[0.493s] Invoking command in '/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration': PYTHONPATH=/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/frontier_exploration build --build-base /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/build install --record /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/install.log --single-version-externally-managed install_data
+[0.664s] running egg_info
+[0.665s] writing build/frontier_exploration/frontier_exploration.egg-info/PKG-INFO
+[0.665s] writing dependency_links to build/frontier_exploration/frontier_exploration.egg-info/dependency_links.txt
+[0.665s] writing entry points to build/frontier_exploration/frontier_exploration.egg-info/entry_points.txt
+[0.665s] writing requirements to build/frontier_exploration/frontier_exploration.egg-info/requires.txt
+[0.665s] writing top-level names to build/frontier_exploration/frontier_exploration.egg-info/top_level.txt
+[0.666s] reading manifest file 'build/frontier_exploration/frontier_exploration.egg-info/SOURCES.txt'
+[0.667s] writing manifest file 'build/frontier_exploration/frontier_exploration.egg-info/SOURCES.txt'
+[0.667s] running build
+[0.667s] running build_py
+[0.667s] copying frontier_exploration/algolism.py -> /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/build/lib/frontier_exploration
+[0.668s] running install
+[0.668s] running install_lib
+[0.668s] copying /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/build/lib/frontier_exploration/algolism.py -> /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/python3.10/site-packages/frontier_exploration
+[0.669s] byte-compiling /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/python3.10/site-packages/frontier_exploration/algolism.py to algolism.cpython-310.pyc
+[0.670s] running install_data
+[0.670s] running install_egg_info
+[0.671s] removing '/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/python3.10/site-packages/frontier_exploration-0.0.0-py3.10.egg-info' (and everything under it)
+[0.671s] Copying build/frontier_exploration/frontier_exploration.egg-info to /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/python3.10/site-packages/frontier_exploration-0.0.0-py3.10.egg-info
+[0.672s] running install_scripts
+[0.688s] Installing explorer script to /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/frontier_exploration
+[0.688s] writing list of installed files to '/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/install.log'
+[0.703s] Invoked command in '/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration' returned '0': PYTHONPATH=/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/install/frontier_exploration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/frontier_exploration build --build-base /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/build install --record /root/ros2_ws/src/AutoFrontierSearch_ros2-humble/src/frontier_exploration/build/frontier_exploration/install.log --single-version-externally-managed install_data

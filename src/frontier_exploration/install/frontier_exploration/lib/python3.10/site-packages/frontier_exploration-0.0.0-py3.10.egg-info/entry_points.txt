@@ -1,0 +1,3 @@
+[console_scripts]
+explorer = frontier_exploration.algolism:main
+

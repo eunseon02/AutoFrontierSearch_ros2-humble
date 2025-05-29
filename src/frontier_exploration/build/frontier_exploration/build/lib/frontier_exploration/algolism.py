@@ -89,6 +89,7 @@ class FrontierExplorationNode(Node):
         frontiers = self.detect_frontiers(map_info=self.map_info)
         if frontiers is None:
             print("Goal not reached, waiting.")
+            # 아직 목표를 보내지 않았거나, 이전 목표에 도달 대기 중
             return
 
         goal = self.select_goal(frontiers, self.map_array)
